@@ -1,2 +1,2 @@
 # bin-tool
-allah
+cc haram
